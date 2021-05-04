@@ -1,0 +1,15 @@
+{
+    "name": "plchatv2",
+    "main": "index.js",
+    "pkg": {
+        "scripts": "./**/*.js"
+    },
+    "bin": "./index.js",
+    "author": "Peppo",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "console-read-write": "^0.1.1",
+        "discord.js": "^12.5.3",
+        "pkg": "^5.0.0"
+    }
+}
