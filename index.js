@@ -1,7 +1,7 @@
 console.clear()
 console.log("Starting plchatv2....")
 const Discord = require("discord.js");
-const DiscordBotToken = "ODMzNDEzNzU0NTYxMzYzOTc4.YHx_Cw.6JF4bHBuKHQQce4j_IgWED0TDD0";
+const DiscordBotToken = "Your discord bot token here";
 const colors = require("colors");
 const io = require('console-read-write');
 const bot = new Discord.Client();
